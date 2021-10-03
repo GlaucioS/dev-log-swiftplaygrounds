@@ -1,2 +1,2 @@
-# dev-log-swiftplaygrounds
+# devlog-swiftplaygrounds
 Devlog de desenvolvimento no Swift Playgounds
